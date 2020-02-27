@@ -1,0 +1,13 @@
+swagger: "2.0"
+info:
+  version: "1.0.6"
+  title: Elements API
+host: localhost:3000
+homepath: /
+schemes:
+  - http
+consumes:
+  - application/json
+produces:
+  - application/json
+paths
